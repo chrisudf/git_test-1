@@ -1,6 +1,6 @@
 # Instruction:
 # Please based on the instruction from this link https://guides.github.com/activities/forking/
-# 1. Fork a GitHub repository.
+# 1. Fork a GitHub repository from https://github.com/capsen/git_test.git
 # 2. Clone the forked repository to your local system.
 # 3. Add a Git remote for the original repository.
 # 4. Create a feature branch in which to place your changes.
